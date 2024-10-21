@@ -30,7 +30,7 @@ This is a Python-based billing system for a grocery store. It allows users to en
 
 4. Run the program:
    ```bash
-   python grocery_store.py
+   python Billing System.py
    ```
 
 5. Enter item names and prices. Type 'q' when done.
